@@ -28,24 +28,19 @@ This project was built as a learning tool for derivatives pricing and arbitrage
 
 ## Getting started
 
-Clone the repository:
+1.Clone the repository:
 
 git clone https://github.com/your-username/options-arbitrage-dashboard.git
 cd options-arbitrage-dashboard
 
-text
-
-Create and activate a virtual environment (optional but recommended), then install dependencies:
+2.Create and activate a virtual environment (optional but recommended), then install dependencies:
 
 pip install -r requirements.txt
 
-text
-
-Run the app:
+3.Run the app:
 
 streamlit run arb_app.py
 
-text
 
 ---
 
@@ -61,7 +56,7 @@ text
 
 ---
 
-## Arbitrage logic (high level)
+## Arbitrage logic
 
 The checks are based on standard no‑arbitrage relationships between option prices, such as:
 
