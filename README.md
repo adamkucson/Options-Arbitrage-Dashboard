@@ -22,7 +22,7 @@ This project was built as a learning tool for derivatives pricing and arbitrage
 - Python  
 - Streamlit  
 - NumPy  
-- Matplotlib (or Plotly, if you switched)  
+- Plotly
 
 ---
 
